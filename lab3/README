@@ -1,0 +1,5 @@
+How to use main.exe?
+main.exe -p PATH
+
+like:
+main.exe -p files
